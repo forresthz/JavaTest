@@ -1,13 +1,13 @@
 package com.test;
 
-public class JavaTest {
+public class tttzz {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-   ///test
+
 	}
 
 }
