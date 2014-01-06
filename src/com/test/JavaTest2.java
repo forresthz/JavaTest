@@ -1,6 +1,6 @@
 package com.test;
 
-public class JavaTest {
+public class JavaTest2 {
 
 	/**
 	 * @param args
